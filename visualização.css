@@ -1,0 +1,33 @@
+body{
+    background:rgb(255, 255, 255);
+    font: 15pt Arial ;
+}
+
+header{
+    color: black;
+    text-align: center;
+}
+
+section{
+    background-image: url("fundoverde.gif");
+    border-radius: 10px;
+    padding: 15px;
+    width: 800px;
+    height: 600px;;
+    margin: auto;
+    box-shadow: 5px 5px  10px rgba(0, 0, 0, 0.342);
+}
+#calcular{
+    font: 30px System;
+}
+#txtn1{
+    bottom: 30px;
+}
+
+#resultados{
+    text-align: left;
+}
+
+h1{
+    font-size: 20px;
+}
